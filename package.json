@@ -1,0 +1,15 @@
+{
+  "name": "obj-gltf-gltfdraco",
+  "version": "1.0.0",
+  "author": "微光北下 <wgbx@foxmail.com>",
+  "description": "> A Vue.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "obj23dtiles ": "^1.0.8",
+    "obj2gltf": "^3.0.4",
+    "gltf-pipeline": "^2.1.4"
+  }
+}

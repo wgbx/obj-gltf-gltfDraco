@@ -1,0 +1,1 @@
+node bin\obj2gltf.js -i build.obj -o build.gltf

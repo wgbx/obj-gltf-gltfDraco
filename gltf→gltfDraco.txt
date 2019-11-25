@@ -1,0 +1,1 @@
+gltf-pipeline -i build.gltf -o buildDraco.gltf -d
