@@ -1,15 +1,13 @@
-# obj→gltf→gltfDraco
+# Tools for converting obj to gltf and gltf to gltfDraco
 
-> 批处理文件
+Batch file
 
+Install dependencies
 
-``` 
-# 安装依赖
+```bash
 npm install
 ```
 
->点击对应的bat查看效果
->
->文件名已标明用途
->
->
+Click the corresponding bat to view the effect
+
+The file names have indicated the purpose
